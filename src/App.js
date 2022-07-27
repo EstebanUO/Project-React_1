@@ -1,5 +1,5 @@
 import "./styles.css";
-import { useEffect, useState } from "react";
+// import { useEffect, useState } from "react";
 import { Home } from "./components/Pages/Home";
 
 export default function App({ style0, style1 }) {
