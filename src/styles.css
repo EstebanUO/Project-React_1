@@ -1,0 +1,13 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.style0 {
+  color: red;
+}
+
+.style1 {
+  color: blue;
+  box-shadow: 0 0 4px green;
+}
